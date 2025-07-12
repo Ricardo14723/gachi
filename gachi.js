@@ -5,7 +5,7 @@
     <div class="series-header">
         <div class="series-icon">⬇</div>
         <div class="series-info">
-            <h1>Enlaces de Descarga - Clevatess</h1>
+            <h1>Enlaces de Descarga - Gachiakuta</h1>
             <p>Audio Latino, Inglés y Japones</p>
         </div>
     </div>
